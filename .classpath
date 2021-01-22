@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="פתרונות/19_07_02/src"/>
+	<classpathentry kind="src" path="פתרונות/2015_02_09/src"/>
+	<classpathentry kind="src" path="פתרונות/2018_08_07/src"/>
+	<classpathentry kind="src" path="פתרונות/2018A_Test/src"/>
+	<classpathentry kind="src" path="פתרונות/2019A_Test/src"/>
+	<classpathentry kind="src" path="פתרונות/2020A_Test/src"/>
+	<classpathentry kind="src" path="פתרונות/BGU_Test_mit_2019/src"/>
+	<classpathentry kind="output" path="פתרונות/19_07_02/bin"/>
+</classpath>
